@@ -60,6 +60,6 @@ In this portfolio, I share my **QA knowledge** and **practical projects** gained
 ## :microscope: Samples
 **1. Website Yopie Salon FX Sudirman**
   * [Test Plan](https://drive.google.com/file/d/1MdSBR9aQVTJXqHFotr-D9AfuWd1xp0DM/view?usp=sharing)
-  * [Test Case](https://drive.google.com/file/d/17jnK6u-Fr2oDx-8LJOtbV7Eqn10pBZ5p/view?usp=sharing)
+  * [Test Case](https://drive.google.com/file/d/1aNt60KrvdertcBqGEWkQA5eRLKN6W1GH/view?usp=sharing)
   * [Bug Report](https://drive.google.com/file/d/1c1aQXzMXDgTGODHZ0KchdqtkL8dcWgUG/view?usp=sharing)
   * [Test Summary Report](https://drive.google.com/file/d/1Gg8N4kZvpnuKAf6p6AuDJp1OhBXDWbOE/view?usp=sharing)
