@@ -53,12 +53,12 @@ In this portfolio, I share my **QA knowledge** and **practical projects** gained
 - Responsibility & Work Ethic  
 - Initiative & Continuous Learning
 
-## Certificates :trophy:
+## :trophy: Certificates
 * [Fundamental DBMS](https://drive.google.com/file/d/1NBd_Egt6us1JLreOkX7MUpfYn71fNdsk/view?usp=sharing)
 * [SQL Server for Beginner](https://drive.google.com/file/d/1CGk04o_YZ4Mzr-z5Z2KNnA5Ckyt1Btma/view?usp=sharing)
 * [SQL Server for Intermediate](https://drive.google.com/file/d/17sW9e7x67xhT8lk_je-ZRxnGBxur482L/view?usp=sharing)
 
-## Samples :microscope:
+## :microscope: Samples
 **1. Website Yopie Salon FX Sudirman**
   * [Test Plan](https://docs.google.com/document/d/1tTNs0QUa-t1AM0wwUr1PyDLVZHIUM3V2/edit?usp=sharing&ouid=111307545824443784496&rtpof=true&sd=true)
   * [Test Case](https://docs.google.com/document/d/14A1Dk5DTJSiXecTW2cszHEt9ZSx9WEVu/edit?usp=sharing&ouid=111307545824443784496&rtpof=true&sd=true)
