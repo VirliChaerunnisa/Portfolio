@@ -7,7 +7,7 @@ In this portfolio, I share my **QA knowledge** and **practical projects** gained
 
 ## ⚙ Tools️
 <ul>
-  <li><a href="https://www.atlassian.com/pl/software/jira">Jira</a>, <a href="https://trello.com/pl/tour">Trello</a> - project management</li>
+  <li><a href="https://www.atlassian.com/pl/software/jira">Jira</a> - project management</li>
   <li><a href="https://www.google.com/intl/pl_pl/drive/">Google Drive</a> - storing data</li>
   <li><a href="https://git-scm.com/">Git</a> - for better work in development team and controlling software versions</li>
   <li><a href="https://github.com/">GitHub</a> - supporting Git and preparing my repositories</li>
