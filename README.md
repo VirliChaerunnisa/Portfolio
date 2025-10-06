@@ -13,9 +13,8 @@ In this portfolio, I share my **QA knowledge** and **practical projects** gained
   <li><a href="https://github.com/">GitHub</a> - supporting Git and preparing my repositories</li>
   <li><a href="https://www.apachefriends.org/pl/index.html">Xampp</a> - practicing SQL</li>
   <li><a href="https://www.postman.com/">Postman</a> - API testing</li>
-  <li><a href="https://www.selenium.dev/">Selenium</a></li>
   <li><a href="https://code.visualstudio.com/">Visual Studio Code</a> - practicing HTML and CSS</li>
-  <li><a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16">SSMS</a></li>
+  <li><a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16">SQL Server Management Studio</a></li>
 </ul>
 
 ## 💻 Tech Skills
