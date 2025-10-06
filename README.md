@@ -59,7 +59,7 @@ In this portfolio, I share my **QA knowledge** and **practical projects** gained
 
 ## :microscope: Samples
 **1. Website Yopie Salon FX Sudirman**
-  * [Test Plan](https://docs.google.com/document/d/1tTNs0QUa-t1AM0wwUr1PyDLVZHIUM3V2/edit?usp=sharing&ouid=111307545824443784496&rtpof=true&sd=true)
-  * [Test Case](https://docs.google.com/document/d/14A1Dk5DTJSiXecTW2cszHEt9ZSx9WEVu/edit?usp=sharing&ouid=111307545824443784496&rtpof=true&sd=true)
-  * [Bug Report](https://docs.google.com/document/d/1Jv0QrIhwVf6VZ4KJAo70rw1kqUYSyUxd/edit?usp=sharing&ouid=111307545824443784496&rtpof=true&sd=true)
-  * [Test Summary Report](https://docs.google.com/document/d/14WNEXEaXR54rQm2CYMIot6Z32wtq236J/edit?usp=sharing&ouid=111307545824443784496&rtpof=true&sd=true)
+  * [Test Plan](https://drive.google.com/file/d/1MdSBR9aQVTJXqHFotr-D9AfuWd1xp0DM/view?usp=sharing)
+  * [Test Case](https://drive.google.com/file/d/17jnK6u-Fr2oDx-8LJOtbV7Eqn10pBZ5p/view?usp=sharing)
+  * [Bug Report](https://drive.google.com/file/d/1c1aQXzMXDgTGODHZ0KchdqtkL8dcWgUG/view?usp=sharing)
+  * [Test Summary Report](https://drive.google.com/file/d/1Gg8N4kZvpnuKAf6p6AuDJp1OhBXDWbOE/view?usp=sharing)
